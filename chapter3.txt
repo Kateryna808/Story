@@ -1,6 +1,6 @@
 yes f u all
 
 
-git remote set-url origin https://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@github.com/Kateryna808/Story.git
+
 
 sôôo3
